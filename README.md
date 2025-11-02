@@ -2,8 +2,6 @@
 
 ## 🗓️ 4-Week Plan: Build a Blog with **Next.js + Tailwind CSS + TypeScript**
 
----
-
 ### **Week 1 — Setup & Core Concepts**
 
 **Goal:** Understand Next.js structure, set up Tailwind & TypeScript, and build the skeleton.
